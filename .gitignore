@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.quantdesk/
+deepseek.json
+credentials.json
+*.log
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+debug-*.md

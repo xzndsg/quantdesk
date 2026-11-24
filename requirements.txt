@@ -1,0 +1,7 @@
+streamlit>=1.67
+akshare>=1.20.46
+backtrader==1.9.78.123
+openai>=1.30
+pydantic>=2.6
+pandas>=2.0
+numpy>=1.24
